@@ -1,5 +1,5 @@
 # Michel Rocha
-Olá, eu sou Michel, um estudante de 24 anos de Análise e Desenvolvimento de Sistemas que mora em Natal/RN e que está em busca de uma oportunidade no mercado de trabalho de desenvolvimento web. Meu amor pela área começou em 2020, quando comecei a estudar por conta própria e rapidamente me apaixonei por desenvolvimento web. Desde então, venho trabalhando duro para alcançar meu objetivo e estou constantemente atualizando minhas habilidades por meio de cursos e projetos.
+Olá, eu sou Michel, um estudante de 25 anos de Análise e Desenvolvimento de Sistemas que mora em Natal/RN e que está em busca de uma oportunidade no mercado de trabalho de desenvolvimento web. Meu amor pela área começou em 2020, quando comecei a estudar por conta própria e rapidamente me apaixonei por desenvolvimento web. Desde então, venho trabalhando duro para alcançar meu objetivo e estou constantemente atualizando minhas habilidades por meio de cursos e projetos.
 
 ## Conecte-se comigo
 [![portfolio](https://img.shields.io/badge/my_portfolio-bd4520?style=for-the-badge&logoColor=white)](https://michelrocha-dev.netlify.app) [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/michelrocha502/)
