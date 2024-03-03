@@ -4,7 +4,7 @@ Olá, eu sou Michel, um estudante de 25 anos de Análise e Desenvolvimento de Si
 ## Conecte-se comigo
 [![portfolio](https://img.shields.io/badge/portfolio-0a0a0a?style=for-the-badge&logoColor=white)](https://michelrocha-dev.netlify.app) 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-rocha-01b550210//) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michelrocha502@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-rocha-01b550210//) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michelrocha502@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5584998120957&text&type=phone_number&app_absent=0https://api.whatsapp.com/send/?phone=5584998120957&text&type=phone_number&app_absent=0)
 
 
 
